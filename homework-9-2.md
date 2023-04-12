@@ -1,4 +1,5 @@
 #9.2 «Система мониторинга Zabbix» Basmanov Vitaliy
+
 #Задание 1
 ## все команды выполнял под root
 ## apt install postgresql
@@ -13,4 +14,5 @@
 ## systemctl restart zabbix-server zabbix-agent apache2
 ## systemctl enable zabbix-server zabbix-agent apache2
 [Скриншот](https://github.com/basmanov/basmanovv/blob/main/9.2.1.png)
+
 #Задание 2 
