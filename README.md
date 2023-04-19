@@ -1,6 +1,4 @@
-# 8.1 Git Basmanov Vitaliy
-#brach master, initial commit
-#brach main, commit
-[Задание 1](https://github.com/basmanov/basmanovv/commit/f8fd414e70bd43959dd159ca021be80c2bf30fd1)
-[Задание 2](https://github.com/basmanov/basmanovv/commit/b03dbfbf797677eb27f84c309fe1e81bdf1692e1)
-[Задание 3](https://github.com/basmanov/basmanovv/network)
+#9.3 «Система мониторинга Zabbix. Часть 2» Basmanov Vitaliy
+[Задание 1](https://github.com/basmanov/basmanovv/blob/main/9.3.1.png)
+[Задание 2-3](https://github.com/basmanov/basmanovv/blob/main/9.2.2-3.png)
+[Задание 4](https://github.com/basmanov/basmanovv/blob/main/9.3.3.png)
